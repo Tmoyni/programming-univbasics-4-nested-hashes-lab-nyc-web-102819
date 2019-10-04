@@ -87,7 +87,6 @@ def adding_matz
      }
 end
 programmer_hash.unshift(:yukihiro_matsumoto)
-p programmer_hash
 
 def changing_alan
 	programmer_hash = 

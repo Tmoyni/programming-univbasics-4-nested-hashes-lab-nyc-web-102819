@@ -90,7 +90,7 @@ programmer_hash.unshift(:yukihiro_matsumoto => {
 :languages => ["LISP", "C"]]
 })
 end
-programmer_hash
+p programmer_hash
 
 def changing_alan
 	programmer_hash = 
